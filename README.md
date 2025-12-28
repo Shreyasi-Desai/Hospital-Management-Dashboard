@@ -18,22 +18,22 @@ SQL (MySQL) – Data cleaning, transformation, and query optimization
 📂 Project Structure
 
 ├── data/                # Raw and cleaned datasets
+
 ├── sql_scripts/         # SQL queries for data cleaning and transformation
+
 ├── dashboard.pbix       # Power BI dashboard file
+
 └── README.md            # Project documentation
 
 🚀 How to Use
 
 Clone the repository:
-Shellgit clone https://github.com/Shreyasi-Desai/hospital-management-dashboard.gitShow more lines
+Shellgit clone https://github.com/Shreyasi-Desai/hospital-management-dashboard.git
 
 Open dashboard.pbix in Power BI Desktop.
 Connect to the cleaned dataset.
 Explore interactive dashboards and insights.
 
-📊 Screenshots
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 📈 Insights Delivered
 
